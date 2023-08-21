@@ -1,6 +1,6 @@
 # READ ME
 
-## Copula-Entropy Drought Analysis &rarr; DroughtSDF
+## Copula-Entropy Drought Analysis &rarr; `cedaR`
 <p align="center">
 <img src="https://github.com/pedroalencar1/cedaR/blob/main/icon/icon_cedar.svg" title="DroughtSDF" alt="DroughtSDF" width="200" height="240"/>
 </p>
