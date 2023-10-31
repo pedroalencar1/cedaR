@@ -84,7 +84,7 @@ plot_tr_distribution_comparison <- function(tr_dist_comparison,
                           breaks = c(2,5,10,20,50),
                           label.placer = label_placer_n(1),
                           colour = 'darkred',
-                          stroke = =0.15)+
+                          stroke = 0.15)+
         geom_text_contour(aes(z = Tr_ref), skip = 0,
                           breaks = c(2,5,10,20,50),
                           label.placer = label_placer_n(1),
